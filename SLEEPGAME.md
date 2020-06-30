@@ -93,7 +93,7 @@
    ​                         																										                       															**Costruttori di p’**
 
    | OSSERVATORI      | Primolista(l) | succLista(l,p)                |
-| ---------------- | ------------- | ----------------------------- |
+   | ---------------- | ------------- | ----------------------------- |
    | precLista(l’,p’) | errore        | If l  = l’ then p else errore |
    
    
