@@ -35,7 +35,7 @@
 
 3. **DIAGRAMMA DELLE CLASSI**
 
-   ![DiagrammaClassiSleepGame](../MAP/DiagrammaClassiSleepGame.jpg)
+   ![DiagrammaClassiSleepGame](../img/DiagrammaClassiSleepGame.jpg)
 
    
 
