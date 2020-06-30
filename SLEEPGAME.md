@@ -20,7 +20,7 @@
 
    - uno che gestisce la comunicazione con l'utente.
    - uno che si occupa di decodificare l'input dell'utente ed individuare la corrispondenza con una mossa
-   - uno che effettua gestisce lo stato della partita ed effettua la mossa decodificata
+   - uno che gestisce lo stato della partita ed effettua la mossa decodificata
 
     Grazie a questa suddivisione è stato facile individuare quali classi sarebbero state necessarie per il nostro progetto e che lavoro nello specifico avrebbero dovuto eseguire.
 
